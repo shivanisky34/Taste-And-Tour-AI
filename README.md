@@ -1,7 +1,5 @@
 # Taste-And-Tour-AI
-AI Assistant for Authentic Food Spots🍜 &and; Cultural Landmarks🗺️
-
-AI-Driven Local Food & Culture Exploration Guide
+AI Assistant for Authentic Food Spots🍜 and; Cultural Landmarks
 
 # 🍜 AI-Driven Local Food & Culture Exploration Guide
 
